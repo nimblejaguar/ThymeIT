@@ -1,0 +1,19 @@
+
+.xyz{
+	margin-top: 100px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    margin-left: 0px;
+   font-family:"Times New Roman", Times, serif;
+   font-size: 20px;
+}
+
+.dropdown{
+	font-family:"Times New Roman", Times, serif;
+	font-size: 18px;
+}
+
+.navbar-brand{
+	font-family:"Times New Roman", Times, serif;
+	font-size: 30px;
+}
